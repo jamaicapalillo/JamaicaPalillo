@@ -1,16 +1,17 @@
-## Hi there 👋
+# _**GET TO KNOW MORE ABOUT ME**_
 
-<!--
-**jamaicapalillo/JamaicaPalillo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+My name is **Jamaica C. Palillo**. A 2nd year **student-programmer** in Bachelor of Science in Computer Engineering at Polytechnic University of the Philippines (PUP).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## _**What I am Currently Working On**_
+< 100 Days of Coding by Angela Yu >
+(https://github.com/jamaicapalillo/100-Days-of-Coding)
+
+##_** Connect with me on my socials**_
+[<LinkedIn: >] (https://www.linkedin.com/in/jamaica-palillo-962329296/)
+[<Facebook: >] (https://www.facebook.com/maicamikaella.palillo/)
+[<Instagram: >] (https://www.instagram.com/)
+
+
+
+

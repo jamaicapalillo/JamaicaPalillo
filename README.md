@@ -16,3 +16,5 @@ LinkedIn: <https://www.linkedin.com/in/jamaica-palillo-962329296/>
 Facebook: <https://www.facebook.com/maicamikaella.palillo/>  
 Instagram:  <https://www.instagram.com/>    
 
+---
+_**Thank you for visiting my github!**_

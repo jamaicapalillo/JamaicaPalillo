@@ -1,4 +1,4 @@
-<h1><b><i> GET TO KNOW MORE ABOUT ME </b></i></h1>
+<h1><b><i> WELCOME!! </b></i></h1>
 
 Hello! My name is _**Jamaica C. Palillo**_. A 2nd year _**student-programmer**_ pursuing a Bachelor of Science in Computer Engineering at Polytechnic University of the Philippines (PUP).
 

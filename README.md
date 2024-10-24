@@ -1,5 +1,4 @@
-## _**GET TO KNOW MORE ABOUT ME**_
-
+<h1><b><i> GET TO KNOW MORE ABOUT ME </b></i></h1>
 
 Hello! My name is _**Jamaica C. Palillo**_. A 2nd year _**student-programmer**_ pursuing a Bachelor of Science in Computer Engineering at Polytechnic University of the Philippines (PUP).
 
@@ -22,4 +21,6 @@ Facebook: <https://www.facebook.com/maicamikaella.palillo/>
 Instagram:  <https://www.instagram.com/>    
 
 ---
-_**Thank you for visiting my github!**_
+<div align="center">
+<h2><b><i> Thank you for visiting my github! </i></b></h2> 
+</div>

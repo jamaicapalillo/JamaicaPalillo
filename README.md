@@ -12,7 +12,7 @@ through the 100 Days of Code challenge, following Angela Yu's course.
 
 ---
 ### _**Connect with me on my socials**_
-<LinkedIn: >  https://www.linkedin.com/in/jamaica-palillo-962329296/  
-<Facebook: > https://www.facebook.com/maicamikaella.palillo/  
-<Instagram: > https://www.instagram.com/  
+LinkedIn: <https://www.linkedin.com/in/jamaica-palillo-962329296/>  
+Facebook: <https://www.facebook.com/maicamikaella.palillo/>  
+Instagram:  <https://www.instagram.com/>    
 

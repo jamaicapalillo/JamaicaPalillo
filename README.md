@@ -11,7 +11,7 @@ Hello! My name is _**Jamaica C. Palillo**_. A 2nd year _**student-programmer**_ 
 through the 100 Days of Code challenge, following Angela Yu's course.
 
 ---
-## _**Connect with me on my socials**_
+# _**Connect with me on my socials**_
 <LinkedIn: >  https://www.linkedin.com/in/jamaica-palillo-962329296/  
 <Facebook: > https://www.facebook.com/maicamikaella.palillo/  
 <Instagram: > https://www.instagram.com/  
